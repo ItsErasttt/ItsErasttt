@@ -11,7 +11,7 @@
 </div>
 <h1>About Me 👨‍🎓:</h1>
 <pre>👨‍🔬:I'm a novice chemist, and I'm learning a bit about Python.
-🌱: I am passionate about the development of biologically active substances.
+🌱:I am passionate about the development of biologically active substances.
 ☣️:Recently, I have been developing analogues of various natural compounds.
 🧬:I also predict physico-chemical parameters.</pre>
 
