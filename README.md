@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnd6bTUxcnF0OGpoMzdjOGp5ajg3YTNoMzB3bWNyMzd1dHQ5bW55ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o84TYShVxcDbZEx2g/giphy.gif" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHA4bWNlYm0zd2Q5ZTI5emdudncxaWV4ZXZ1b2gxanFraXJ2NjV4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKLSYkhEpolVUOY/giphy.gif" width="600"/>
 </div>
 <h1 align = "center">
   with loving
