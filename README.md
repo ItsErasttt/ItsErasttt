@@ -14,5 +14,5 @@
 🌱:I am passionate about the development of biologically active substances.
 ☣️:Recently, I have been developing analogues of various natural compounds.
 🧬:I also predict physico-chemical parameters.</pre>
-
+<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
